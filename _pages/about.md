@@ -36,15 +36,15 @@ Email: zhangzhengbo2025@ia.ac,cn
   **COMPAG 2024(SCI, Q1), Accepted**
 
 # 🎖 Honors and Awards
-- *2025.06* Outstanding Graduate of Beijing Ordinary Colleges and Universities.
-- *2023.12* First-class Scholarship. 
-- *2023.12* National Scholarship. 
-- *2022.12* First-class Scholarship. 
-- *2022.12* National Scholarship. 
+- *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
+- *2023.12*, First-class Scholarship. 
+- *2023.12*, National Scholarship. 
+- *2022.12*, First-class Scholarship. 
+- *2022.12*, National Scholarship. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - Current*, Ph.D. Student in Computer Application Technology, Institute of Automation, Chinese Academy of Sciences & University of Chinese Academy of Sciences.
+- *2021.09 - 2025.06*, B.E. in Computer Science and Technology (Experimental Class of Information Science), College of Information and Electrical Engineering, China Agricultural University.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.02 - 2025.08*, AIGC Group, **Xiaomi**, Beijing, China.
