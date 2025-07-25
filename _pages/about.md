@@ -24,6 +24,7 @@ My research interest includes Computer Vision, AIGC and MLLM. If you are interes
 Email: zhangzhengbo2025@ia.ac,cn
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Graduate from CAU, and I'm the Outstanding Graduate of Beijing Ordinary Colleges and Universities!
 - *2024.09*: &nbsp;🎉🎉 I am pre-admitted to CASIA as a Ph.D. student!
 - *2024.08*: &nbsp;🎉🎉 One paper on Gait Recognition was accepted by COMPAG!
 
