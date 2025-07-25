@@ -52,7 +52,7 @@ Email: zhangzhengbo2025@ia.ac,cn
 - *2022.12*, National Scholarship. 
 
 # 📖 Educations
-- *2025.09 - Current*, Ph.D. Student in Computer Application Technology, Institute of Automation, Chinese Academy of Sciences & University of Chinese Academy of Sciences.
+- *2025.09 - Current*, Ph.D. Student in Computer Application Technology, Institute of Automation, Chinese Academy of Sciences.
 - *2021.09 - 2025.06*, B.E. in Computer Science and Technology (Experimental Class of Information Science), College of Information and Electrical Engineering, China Agricultural University.
 
 # 💻 Internships
