@@ -29,11 +29,20 @@ Email: zhangzhengbo2025@ia.ac,cn
 
 # 📝 Publications 
 
+- A Click-Through Rate Model for Information Flow Video Cover Ranking and Optimization Based on Dual-Granularity Aesthetic Information
+
+  **AAAI(CCF-A), Under Review**
+
+- Bilinear Magic Meets CLIP: Unsupervised Learning in Pig Counting Scenario
+
+  **ICONIP(CCF-C), Under Review**
+
 - [Gait recognition for farm workers via multi-scale temporal feature perception](https://www.sciencedirect.com/science/article/abs/pii/S0168169924007440)
 
   **Zhengbo Zhang**, YaXu Xiao, Zizhi Chen, Xin Chen, Xiang Li$^{\dagger}$
 
   **COMPAG 2024(SCI, Q1), Accepted**
+
 
 # 🎖 Honors and Awards
 - *2025.06*, Outstanding Graduate of Beijing Ordinary Colleges and Universities.
