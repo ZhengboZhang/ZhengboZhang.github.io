@@ -30,13 +30,17 @@ Email: zhangzhengbo2025@ia.ac,cn
 
 # 📝 Publications 
 
+- A Novel Modeling Framework and Data Product for Extended VIIRS-like Artificial Nighttime Light Image Reconstruction (1986-2024)
+
+  **RSE 2025(SCI, Q1), Under Review**
+
 - A Click-Through Rate Model for Information Flow Video Cover Ranking and Optimization Based on Dual-Granularity Aesthetic Information
 
-  **AAAI(CCF-A), Under Review**
+  **AAAI 2026(CCF-A), Under Review**
 
 - Bilinear Magic Meets CLIP: Unsupervised Learning in Pig Counting Scenario
 
-  **ICONIP(CCF-C), Under Review**
+  **ICONIP 2025(CCF-C), Under Review**
 
 - [Gait recognition for farm workers via multi-scale temporal feature perception](https://www.sciencedirect.com/science/article/abs/pii/S0168169924007440)
 
