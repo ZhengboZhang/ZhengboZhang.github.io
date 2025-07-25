@@ -30,7 +30,9 @@ Email: zhangzhengbo2025@ia.ac,cn
 # 📝 Publications 
 
 - [Gait recognition for farm workers via multi-scale temporal feature perception](https://www.sciencedirect.com/science/article/abs/pii/S0168169924007440)
-**Zhengbo Zhang**, YaXu Xiao, Zizhi Chen, Xin Chen, Xiang Li
+
+**Zhengbo Zhang**, YaXu Xiao, Zizhi Chen, Xin Chen, Xiang Li$^{\dagger}$
+
 **COMPAG 2024(SCI, Q1), Accepted**
 
 # 🎖 Honors and Awards
