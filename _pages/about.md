@@ -38,6 +38,10 @@ Email: zhangzhengbo2025@ia.ac,cn
 
   **AAAI 2026(CCF-A), Under Review**
 
+- A RAG-based prompt optimization framework for text-to-image generation
+
+  **CAIT 2025, Under Review**
+
 - Bilinear Magic Meets CLIP: Unsupervised Learning in Pig Counting Scenario
 
   **ICONIP 2025(CCF-C), Under Review**
