@@ -62,7 +62,7 @@ Email: zhangzhengbo2025@ia.ac,cn
 
 # 📖 Educations
 - *2025.09 - Current*, Ph.D. Student in Computer Application Technology, Institute of Automation, Chinese Academy of Sciences.
-- *2021.09 - 2025.06*, B.E. in Computer Science and Technology (Experimental Class of Information Science), College of Information and Electrical Engineering, China Agricultural University.
+- *2021.09 - 2025.06*, B.E. in Computer Science and Technology (Experimental Class of Information Science), College of Information and Electrical Engineering, China Agricultural University. (Ranking: 1/39)
 
 # 💻 Internships
 - *2025.02 - 2025.08*, AIGC Group, **Xiaomi**, Beijing, China.
