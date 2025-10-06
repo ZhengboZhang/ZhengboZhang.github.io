@@ -30,9 +30,13 @@ Email: zhangzhengbo2025@ia.ac,cn
 
 # 📝 Publications 
 
-- A Novel Modeling Framework and Data Product for Extended VIIRS-like Artificial Nighttime Light Image Reconstruction (1986-2024)
+- BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions
 
-  **RSE 2025(SCI, Q1), Under Review**
+  **ICLR 2026, Under Review**
+
+- [A Novel Modeling Framework and Data Product for Extended VIIRS-like Artificial Nighttime Light Image Reconstruction (1986-2024)](https://arxiv.org/abs/2508.00590)
+
+  **Scientific Data 2025(SCI, Q2), Under Review**
 
 - A Click-Through Rate Model for Information Flow Video Cover Ranking and Optimization Based on Dual-Granularity Aesthetic Information
 
@@ -41,10 +45,6 @@ Email: zhangzhengbo2025@ia.ac,cn
 - A RAG-based prompt optimization framework for text-to-image generation
 
   **CAIT 2025, Under Review**
-
-- Bilinear Magic Meets CLIP: Unsupervised Learning in Pig Counting Scenario
-
-  **ICONIP 2025(CCF-C), Under Review**
 
 - [Gait recognition for farm workers via multi-scale temporal feature perception](https://www.sciencedirect.com/science/article/abs/pii/S0168169924007440)
 
