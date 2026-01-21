@@ -24,27 +24,24 @@ My research interest includes Computer Vision, AIGC and MLLM. If you are interes
 Email: zhangzhengbo2025@ia.ac,cn
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper on Deep Search was accepted by TMLR!
+- *2025.12*: &nbsp;🎉🎉 One paper on Nighttime light image was accepted by Scientific Data!
 - *2025.06*: &nbsp;🎉🎉 Graduate from CAU, and I'm the Outstanding Graduate of Beijing Ordinary Colleges and Universities!
 - *2024.09*: &nbsp;🎉🎉 I am pre-admitted to CASIA as a Ph.D. student!
 - *2024.08*: &nbsp;🎉🎉 One paper on Gait Recognition was accepted by COMPAG!
 
 # 📝 Publications 
+- [Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection](https://arxiv.org/abs/2512.20937)
 
-- BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions
+  **CVPR 2026(CCF-A), Under Review**
 
-  **ICLR 2026, Under Review**
+- [BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://arxiv.org/abs/2510.10666)
+
+  **TMLR 2026, Accepted**
 
 - [A Novel Modeling Framework and Data Product for Extended VIIRS-like Artificial Nighttime Light Image Reconstruction (1986-2024)](https://arxiv.org/abs/2508.00590)
 
-  **Scientific Data 2025(SCI, Q2), Under Review**
-
-- A Click-Through Rate Model for Information Flow Video Cover Ranking and Optimization Based on Dual-Granularity Aesthetic Information
-
-  **AAAI 2026(CCF-A), Under Review**
-
-- A RAG-based prompt optimization framework for text-to-image generation
-
-  **CAIT 2025, Under Review**
+  **Scientific Data 2026(SCI, Q2), Accepted**
 
 - [Gait recognition for farm workers via multi-scale temporal feature perception](https://www.sciencedirect.com/science/article/abs/pii/S0168169924007440)
 
@@ -65,4 +62,5 @@ Email: zhangzhengbo2025@ia.ac,cn
 - *2021.09 - 2025.06*, B.E. in Computer Science and Technology (Experimental Class of Information Science), College of Information and Electrical Engineering, China Agricultural University. (Ranking: 1/39)
 
 # 💻 Internships
-- *2025.02 - 2025.08*, AIGC Group, **Xiaomi**, Beijing, China.
+- *2025.11 - Current*, LLM | Deep Research, **Ant Group**, Beijing, China.
+- *2025.02 - 2025.08*, AIGC, **Xiaomi**, Beijing, China.
