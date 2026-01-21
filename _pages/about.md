@@ -24,7 +24,7 @@ My research interest includes Computer Vision, AIGC and MLLM. If you are interes
 Email: zhangzhengbo2025@ia.ac,cn
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 One paper on Deep Search was accepted by TMLR!
+- *2025.12*: &nbsp;🎉🎉 One paper on Deep Research was accepted by TMLR!
 - *2025.12*: &nbsp;🎉🎉 One paper on Nighttime light image was accepted by Scientific Data!
 - *2025.06*: &nbsp;🎉🎉 Graduate from CAU, and I'm the Outstanding Graduate of Beijing Ordinary Colleges and Universities!
 - *2024.09*: &nbsp;🎉🎉 I am pre-admitted to CASIA as a Ph.D. student!
@@ -62,5 +62,5 @@ Email: zhangzhengbo2025@ia.ac,cn
 - *2021.09 - 2025.06*, B.E. in Computer Science and Technology (Experimental Class of Information Science), College of Information and Electrical Engineering, China Agricultural University. (Ranking: 1/39)
 
 # 💻 Internships
-- *2025.11 - Current*, LLM | Deep Research, **Ant Group**, Beijing, China.
+- *2025.11 - Current*, LLM & Deep Research, **Ant Group**, Beijing, China.
 - *2025.02 - 2025.08*, AIGC, **Xiaomi**, Beijing, China.
