@@ -21,7 +21,7 @@ I am currently a Ph.D. student at the <a href='https://ia.cas.cn'>Institute of A
 
 My research interest includes Agentic MLLM, Computer Vision. If you are interested in collaborating and exchanging ideas in related areas, please feel free to contact me via email!
 
-Email: zhangzhengbo2025@ia.ac,cn
+Email: zhangzhengbo2025@ia.ac.cn
 
 # 🔥 News
 - *2026.10*: &nbsp;🎉🎉 I became a contributor of [IQuest-Q1](https://arxiv.org/abs/2610.30949)!
