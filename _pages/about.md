@@ -88,7 +88,7 @@ Email: zhangzhengbo2025@ia.ac,cn
 
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[DSFC-Net: A Dual-Encoder Spatial and Frequency Co-Awareness Network for Rural Road Extraction](https://arxiv.org/abs/2602.01278)*
 
-  **Zhengbo Zhang***, Yihe Tian*, Wanke Xia, Lin Chen, Yue Sun, Kun Ding, Ying Wang, Bing Xu, Shiming Xiang.
+  **Zhengbo Zhang**$^\dagger$, Yihe Tian*, Wanke Xia, Lin Chen, Yue Sun, Kun Ding, Ying Wang, Bing Xu, Shiming Xiang.
 
 
 # 🎖 Honors and Awards
