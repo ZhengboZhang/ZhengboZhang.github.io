@@ -53,7 +53,7 @@ Email: zhangzhengbo2025@ia.ac,cn
 
 - <img src="https://img.shields.io/badge/TMLR-2026-green?style=flat-square">  *[BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://arxiv.org/abs/2510.10666)*
 
-  Tao Yu<sup>*</sup>, **Zhengbo Zhang***, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxuan Zhou, Jiabing Yang, Ping Nie, Yan Huang, Wenhu Chen.
+  Tao Yu$^\dagger$, **Zhengbo Zhang**$^\dagger$, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxuan Zhou, Jiabing Yang, Ping Nie, Yan Huang, Wenhu Chen.
 
 
 - <img src="https://img.shields.io/badge/Scientific Data-2026-green?style=flat-square"> *[An Extended VIIRS-like Artificial Nighttime Light Data Reconstruction (1986–2024)]([https://arxiv.org/abs/2508.00590](https://www.nature.com/articles/s41597-026-06549-0))*
@@ -72,23 +72,23 @@ Email: zhangzhengbo2025@ia.ac,cn
 
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[Visual-Seeker: Towards Visual-Native Multimodal Agentic Search via Active Visual Reasoning](https://arxiv.org/abs/2606.15231)*
 
-  **Zhengbo Zhang***, Changtao Miao*, Jinbo Su*, Zhaowen Zhou*, Chunxia Zhang, Xukai Wang, Ruiqi Liu, Kaiyuan Zheng, Jiansheng Cai, Bo Zhang, Zhe Li, Shiming Xiang, Ying Yan.
+  **Zhengbo Zhang**$^\dagger$, Changtao Miao$^\dagger$, Jinbo Su$^\dagger$, Zhaowen Zhou$^\dagger$, Chunxia Zhang, Xukai Wang, Ruiqi Liu, Kaiyuan Zheng, Jiansheng Cai, Bo Zhang, Zhe Li, Shiming Xiang, Ying Yan.
 
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents](https://arxiv.org/abs/2603.16289)*
 
-  **Zhengbo Zhang***, Jinbo Su*, Zhaowen Zhou*, Changtao Miao*, Yuhan Hong, Qimeng Wu, Yumeng Liu, Feier Wu, Yihe Tian, Yuhao Liang, Zitong Shan, Wanke Xia, Yi-Fan Zhang, Bo Zhang, Zhe Li, Shiming Xiang, Ying Yan.
+  **Zhengbo Zhang**$^\dagger$, Jinbo Su$^\dagger$, Zhaowen Zhou$^\dagger$, Changtao Miao$^\dagger$, Yuhan Hong, Qimeng Wu, Yumeng Liu, Feier Wu, Yihe Tian, Yuhao Liang, Zitong Shan, Wanke Xia, Yi-Fan Zhang, Bo Zhang, Zhe Li, Shiming Xiang, Ying Yan.
 
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[EviScene: Beyond" Is It AI?" for Agentic Image Factuality Assessment](https://arxiv.org/abs/2610.14609)*
 
-  ZiAn Wang*, Ruiqi Liu*, **Zhengbo Zhang***, Yi Han, Jialiang Shen, Ruoxin Chen, Manni Cui, Ximo Zhu, Jin Jiang, Mingzhe Liu, Linhao Wang, Wenhao Wang, Shu Wu.
+  ZiAn Wang$^\dagger$, Ruiqi Liu$^\dagger$, **Zhengbo Zhang**$^\dagger$, Yi Han, Jialiang Shen, Ruoxin Chen, Manni Cui, Ximo Zhu, Jin Jiang, Mingzhe Liu, Linhao Wang, Wenhao Wang, Shu Wu.
 
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents](https://arxiv.org/abs/2606.12087)*
 
-  Jia Deng${}^{*}$, Yimeng Chen*, Xiaoqing Xiang*, Ziyang Zeng*, Shuo Tang*, **Zhengbo Zhang***, Wayne Xin Zhao, Feng Chang, Chuan Hao, Yuan Wei, Ran Tao, Bryan Dai, Ji-Rong Wen.
+  Jia Deng$^\dagger$, Yimeng Chen$^\dagger$, Xiaoqing Xiang$^\dagger$, Ziyang Zeng$^\dagger$, Shuo Tang$^\dagger$, **Zhengbo Zhang**$^\dagger$, Wayne Xin Zhao, Feng Chang, Chuan Hao, Yuan Wei, Ran Tao, Bryan Dai, Ji-Rong Wen.
 
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[DSFC-Net: A Dual-Encoder Spatial and Frequency Co-Awareness Network for Rural Road Extraction](https://arxiv.org/abs/2602.01278)*
 
-  **Zhengbo Zhang**$^\dagger$, Yihe Tian*, Wanke Xia, Lin Chen, Yue Sun, Kun Ding, Ying Wang, Bing Xu, Shiming Xiang.
+  **Zhengbo Zhang**$^\dagger$, Yihe Tian$^\dagger$, Wanke Xia, Lin Chen, Yue Sun, Kun Ding, Ying Wang, Bing Xu, Shiming Xiang.
 
 
 # 🎖 Honors and Awards
