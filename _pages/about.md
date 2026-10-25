@@ -53,7 +53,7 @@ Email: zhangzhengbo2025@ia.ac,cn
 
 - <img src="https://img.shields.io/badge/TMLR-2026-green?style=flat-square">  *[BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://arxiv.org/abs/2510.10666)*
 
-  Tao Yu*, **Zhengbo Zhang***, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxuan Zhou, Jiabing Yang, Ping Nie, Yan Huang, Wenhu Chen.
+  Tao Yu<sup>*</sup>, **Zhengbo Zhang***, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxuan Zhou, Jiabing Yang, Ping Nie, Yan Huang, Wenhu Chen.
 
 
 - <img src="https://img.shields.io/badge/Scientific Data-2026-green?style=flat-square"> *[An Extended VIIRS-like Artificial Nighttime Light Data Reconstruction (1986–2024)]([https://arxiv.org/abs/2508.00590](https://www.nature.com/articles/s41597-026-06549-0))*
