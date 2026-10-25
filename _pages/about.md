@@ -24,6 +24,8 @@ My research interest includes Agentic MLLM, Computer Vision. If you are interest
 Email: zhangzhengbo2025@ia.ac,cn
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 I became a contributor of [IQuest-Q1](https://arxiv.org/abs/2610.30949)!
+- *2026.03*: &nbsp;🎉🎉 We released [VisBrowse-Bench](https://huggingface.co/datasets/Zhengbo-Zhang/VisBrowse-Bench) on Huggingface!
 - *2025.12*: &nbsp;🎉🎉 One paper on Deep Research was accepted by TMLR!
 - *2025.12*: &nbsp;🎉🎉 One paper on Nighttime light image was accepted by Scientific Data!
 - *2025.06*: &nbsp;🎉🎉 Graduate from CAU, and I'm the Outstanding Graduate of Beijing Ordinary Colleges and Universities!
@@ -84,7 +86,9 @@ Email: zhangzhengbo2025@ia.ac,cn
 
   Jia Deng*, Yimeng Chen*, Xiaoqing Xiang*, Ziyang Zeng*, Shuo Tang*, **Zhengbo Zhang***, Wayne Xin Zhao, Feng Chang, Chuan Hao, Yuan Wei, Ran Tao, Bryan Dai, Ji-Rong Wen.
 
+- <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[DSFC-Net: A Dual-Encoder Spatial and Frequency Co-Awareness Network for Rural Road Extraction](https://arxiv.org/abs/2602.01278)*
 
+  **Zhengbo Zhang***, Yihe Tian*, Wanke Xia, Lin Chen, Yue Sun, Kun Ding, Ying Wang, Bing Xu, Shiming Xiang.
 
 
 # 🎖 Honors and Awards
