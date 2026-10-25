@@ -84,7 +84,7 @@ Email: zhangzhengbo2025@ia.ac,cn
 
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents](https://arxiv.org/abs/2606.12087)*
 
-  Jia Deng*, Yimeng Chen*, Xiaoqing Xiang*, Ziyang Zeng*, Shuo Tang*, **Zhengbo Zhang***, Wayne Xin Zhao, Feng Chang, Chuan Hao, Yuan Wei, Ran Tao, Bryan Dai, Ji-Rong Wen.
+  Jia Deng${}^{*}$, Yimeng Chen*, Xiaoqing Xiang*, Ziyang Zeng*, Shuo Tang*, **Zhengbo Zhang***, Wayne Xin Zhao, Feng Chang, Chuan Hao, Yuan Wei, Ran Tao, Bryan Dai, Ji-Rong Wen.
 
 - <img src="https://img.shields.io/badge/arXiv-2026-red?style=flat-square"> *[DSFC-Net: A Dual-Encoder Spatial and Frequency Co-Awareness Network for Rural Road Extraction](https://arxiv.org/abs/2602.01278)*
 
